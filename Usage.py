@@ -8,7 +8,8 @@ banner = r'''
 | |(o o)| |
 | |  ^  | |
  \ '---' /
-  '-._.-'   MR STARK
+  '-._.-'   Created by : MR STARK
+            HI Friends, Enjoy It !!
 '''
 
 usage = """[ Usage: python3 network_scanner.py <target> <start_port> <end_port> ]"""

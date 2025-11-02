@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-# Simple usage banner for network_scanner (Mr. Stark style)
+# Usage banner for network_scanner (Mr. Stark edition)
 
-banner = r"""
+banner = r'''
 .-"""-.
  /  .-.  \
 |  /   \  |
@@ -9,7 +9,7 @@ banner = r"""
 | |  ^  | |
  \ '---' /
   '-._.-'   MR STARK
-"""
+'''
 
 usage = """Usage: python3 network_scanner.py <target> <start_port> <end_port>
 Positional: <target>=IP/hostname/CIDR    <start_port>,<end_port>=1-65535

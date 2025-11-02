@@ -19,3 +19,5 @@ Operational Benefits
 StarkScan streamlines the initial phases of penetration testing engagements by rapidly mapping network attack surfaces while maintaining professional operational standards. The tool's efficient resource utilization ensures minimal impact on target infrastructure while delivering comprehensive reconnaissance data essential for vulnerability assessment and exploit development activities.
 
 Designed exclusively for authorized security professionals conducting legitimate penetration testing activities within approved scopes of engagement.
+Usage : 
+• python3 network_scanner.py <target> <start_port> <end_port>

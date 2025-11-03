@@ -1,4 +1,4 @@
-[ Use It In Authorised Way Otherwise you will be Responsible For Any Illegal Notice !! ]
+[Use It In Authorised Way Otherwise User will be Responsible For Any Illegal Activity !!]
 
 ∆ ENJOY IT ∆
 
